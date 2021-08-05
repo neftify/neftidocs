@@ -23,7 +23,6 @@ Neftify’s main contract, neftiswap, is the primary entry point for all interac
 ➢ [Twitter](https://twitter.com/neftify)
 ➢ [Reddit]()
 ➢ [Discord]()
-
 ➢ [Email]()
 
 ➢ [Docs](https://docs.neftify.com)
