@@ -10,7 +10,7 @@ Neftify’s technical docs can be found [here](https://docs.neftify.com)—they 
 
 
 
-![ERC20 to ERC721 swap](assets/ERC-20-2.png)
+![ERC20 to ERC721 swap](assets/erc20-erc721.png)
 
 # How to Use It
 
