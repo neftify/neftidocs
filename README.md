@@ -11,10 +11,9 @@ Neftify’s main contract, neftiswap, is the primary entry point for all interac
 
 ![ERC20 to ERC721 swap](assets/erc20-erc721.png)
 
+Neftify utilizes a collateralization model in order to adjust the amount of collateral required to borrow an NFT. The model is a function of time that rewards longer lock ups by decreasing the amount of collateral required to borrow. This is similar to the constant product formula used by liquidity pools to offset non-unit token ratios, except it is used to maintain constancy between the ratio of time to collateral.
 
-
-# How to Use It
-
+It's important to note that the lending party sets the collateral requirements for borrowing, as well as the maximum lending period; the collateralization model is only used to extrapolate how much collateral is required for lending periods that are shorter than the maximum allowed.
 
 # Resources
 
@@ -23,6 +22,6 @@ Neftify’s main contract, neftiswap, is the primary entry point for all interac
 * [Twitter](https://twitter.com/neftify)
 * [Reddit]()
 * [Discord]()
-* [Email]()
+* [Email](mailto:neftifymsg@gmail.com?Subject=Contact%20Neftify)
 * [Docs](https://docs.neftify.com)
 * [Whitepaper](https://neftify.com/neftify-whitepaper.pdf)
